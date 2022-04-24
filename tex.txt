@@ -2,3 +2,4 @@ Master message
 Dev message
 Dev2 message
 Master message from the developer 1
+Master message from another developer
